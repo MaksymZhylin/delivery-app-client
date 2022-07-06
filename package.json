@@ -62,5 +62,5 @@
   "lint-staged": {
     "**/*": "prettier --write --ignore-unknown"
   },
-  "proxy": "http://localhost:3001"
+  "proxy": "https://maksymz-delivery-app.herokuapp.com:3001"
 }
